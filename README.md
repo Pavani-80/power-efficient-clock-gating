@@ -6,6 +6,7 @@ A simple enable-based Verilog clock gating module for power-efficient design.
 This project implements a simple enable-based clock gating module in Verilog to reduce dynamic power consumption in synchronous digital circuits. Clock gating is a widely used low-power technique in VLSI and digital design, where the clock signal to unused modules is disabled (gated) to save power.
 
 Why Clock Gating?
+
 The clock network consumes a significant portion of the total dynamic power in digital chips.
 
 By selectively turning off the clock signal when a module is idle, we prevent unnecessary switching activity.
