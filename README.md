@@ -14,4 +14,7 @@ This project implements a simple enable-based clock gating module in Verilog, si
 
 ## Run Live
 👉 [EDA Playground Live Link](https://www.edaplayground.com/home)
+![image](https://github.com/user-attachments/assets/cc61d2d8-5bb3-46e3-af2a-edef2e1e8403)
+![image](https://github.com/user-attachments/assets/fece83be-f419-4a79-96f4-87f4703c9a26)
+
 
